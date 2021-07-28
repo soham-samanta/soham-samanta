@@ -11,24 +11,24 @@ A CSE student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANGâ
 Love to solve complex things in simple ways.
 
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
-  <img align="center" alt="Hamdan's LinkedIN" width="25px" src="Assets/linkedin.png" />
+  <img align="center" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/sohamsamanta2/">
-  <img align="center" alt="Hamdan's Instagram" width="25px" src="Assets/instagram.jpg" />
+  <img align="center" alt="Soham's Instagram" width="25px" src="Assets/instagram.jpg" />
 </a>
 <a href="https://www.facebook.com/soham.samnata">
-  <img align="center" alt="Hamdan's Facebook" width="25px" src="Assets/facebook.png" />
+  <img align="center" alt="Soham's Facebook" width="25px" src="Assets/facebook.png" />
 </a>
 <a href="https://www.codechef.com/users/soham_cp_noob">
-  <img align="center" alt="Hamdan's Codechef" width="25px" src="Assets/codechef.png" />
+  <img align="center" alt="Soham's Codechef" width="25px" src="Assets/codechef.png" />
 </a>
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
-  <img align="center" alt="Hamdan's Hackerrank" width="25px" src="Assets/hackerrank.png" />
+  <img align="center" alt="Soham's Hackerrank" width="25px" src="Assets/hackerrank.png" />
 </a>
 <a href="https://github.com/soham-samanta">
-  <img align="center" alt="Hamdan's Github" width="25px" src="Assets/github.png" />
+  <img align="center" alt="Soham's Github" width="25px" src="Assets/github.png" />
 </a>
 <a href="mailto:sohamsamanta2@gmail.com?subject=Hey%20Soham,%20From%20Github">
-  <img align="center" alt="Hamdan's Gmail" width="25px" src="Assets/gmail.png" />
+  <img align="center" alt="Soham's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
 <br><br>
