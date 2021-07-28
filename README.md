@@ -14,7 +14,7 @@ Love to solve complex things in simple ways.
   <img align="center" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/sohamsamanta2/">
-  <img align="center" alt="Soham's Instagram" width="25px" src="Assets/instagram.jpg" />
+  <img align="center" alt="Soham's Instagram" width="25px" src="Assets/instagram.png" />
 </a>
 <a href="https://www.facebook.com/soham.samnata">
   <img align="center" alt="Soham's Facebook" width="25px" src="Assets/facebook.png" />
