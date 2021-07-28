@@ -20,7 +20,7 @@ Love to solve complex things in simple ways.
   <img align="center" alt="Soham's Facebook" width="25px" src="Assets/facebook.png" />
 </a>
 <a href="https://www.codechef.com/users/soham_cp_noob">
-  <img align="center" alt="Soham's Codechef" width="25px" src="Assets/codechef.png" />
+  <img align="center" alt="Soham's Codechef" width="25px" src="Assets/codechef.jpg" />
 </a>
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
   <img align="center" alt="Soham's Hackerrank" width="25px" src="Assets/hackerrank.png" />
