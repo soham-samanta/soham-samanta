@@ -36,7 +36,7 @@ Love to solve complex things in simple ways.
 </a>
 <br><br>
 
-- 📝My Resume -> <a href="https://drive.google.com/file/d/1nzrQpK9PFYdxDaH4jlG1t5-tSAuBgyLy/view?usp=sharing"><img align="center" alt="Soham's Resume" width="35px" src="Assets/resume.png" /></a>
+### My Resume -> <a href="https://drive.google.com/file/d/1nzrQpK9PFYdxDaH4jlG1t5-tSAuBgyLy/view?usp=sharing"><img align="center" alt="Soham's Resume" width="35px" src="Assets/resume.png" /></a>
 
 ### Languages and Tools:
 
