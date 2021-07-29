@@ -67,16 +67,7 @@ Love to solve complex things in simple ways.
   <tr>
     <td>
       <a href="https://github.com/soham-samanta"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soham's GitHub Stats" width="400" />
-      </a>
-     </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soham-samanta&repo=soham-samanta.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
-      </a>
-     </td>
-  </tr>
-</table>
-<hr>
+        <img alt="Soham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&theme=chartreuse-dark&show_icons=true&count_private=true" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soham-samanta&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
