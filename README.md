@@ -1,5 +1,4 @@
 # Hey there👋 Welcome to my Profile!
-I don't run behind perfection; But I always seek for an optimized solution.
 
 I'm [Soham Samanta](https://www.linkedin.com/in/soham-samanta-5732b41b5/)!
 A passionate entrepreneur packed with an engineering mindset. I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. I love to code at night & study(/track) market during morning . Keenly interested in the STOCK MARKET.
@@ -64,7 +63,7 @@ Love to solve complex things in simple ways.
 
 <br />
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats:
 <table>
   <tr>
     <td>
