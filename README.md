@@ -62,4 +62,25 @@ Love to solve complex things in simple ways.
 
 <br />
 
+## &#x1f4c8; GitHub Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/soham-samanta"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Soham's GitHub Stats" width="400" />
+      </a>
+     </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soham-samanta&repo=soham-samanta.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      </a>
+     </td>
+  </tr>
+</table>
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soham-samanta&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
+
+<h2>Starring my repos will be appreciated as your ❤️ for me. 😃 </h2>
+
 ---
