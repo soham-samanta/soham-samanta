@@ -69,10 +69,10 @@ Love to solve complex things in simple ways.
   <tr>
     <td>
       <a href="https://github.com/soham-samanta"> 
-        <img align="left" alt="Soham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&theme=chartreuse-dark&show_icons=true&count_private=true" />
+        <img alt="Soham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=soham-samanta&theme=chartreuse-dark&show_icons=true&count_private=true" />
        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-samanta&theme=dark&show_icons=true">
        
-<hr>
+
        
 [![trophy](https://github-profile-trophy.vercel.app/?username=soham-samanta&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
