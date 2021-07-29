@@ -76,6 +76,6 @@ Love to solve complex things in simple ways.
 [![trophy](https://github-profile-trophy.vercel.app/?username=soham-samanta&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
-<h2>Starring my repos will be appreciated as your ❤️ for me. 😃 </h2>
+<h2>Starring my repos will be appreciated as your ❤️ for me. </h2>
 
 ---
