@@ -6,7 +6,7 @@ I am a Computer Science undergrad with strong technical and interpersonal skills
 - I'm a 4⭐coder at [Codechef](https://www.codechef.com/users/soham_cp_noob). 5⭐at [HackerRank](https://www.hackerrank.com/sohamsamanta2?hr_r=1) {in C++ and Java}.
 - <b>Current Intern at [Knitter](https://www.linkedin.com/company/knitter/)</b> at the position of Android Developer Intern.
 - <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.sharexindustries.com/)</b> Formerly known as ShareX Academy.
-- <b>Highest achievement: [Google CodeJam 2021](https://drive.google.com/file/d/1AX-W4pBfTZm7JXK3FBMJd9vY1Pi86kUP/view)</b> Global Rank: 1337 among 38k participants.
+- <b>Highest achievement: [Google CodeJam 2021](https://drive.google.com/file/d/1AX-W4pBfTZm7JXK3FBMJd9vY1Pi86kUP/view)</b> Global Rank of{Qualifying Round:1337, Round 1B:3997}
 
 A CSE student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
 Love to solve complex things in simple ways.
