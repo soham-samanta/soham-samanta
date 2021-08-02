@@ -53,7 +53,7 @@ Love to solve complex things in simple ways.
 
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 
-<img align="left" alt="Java" width="26px" src="https://play-lh.googleusercontent.com/MK12c7vLGVgCgTUvuhlb9b69BwO0-UqsLkvzrHef46xT1ilYoMknDa-Nq0HZwFDX8ts>
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png>
 
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
