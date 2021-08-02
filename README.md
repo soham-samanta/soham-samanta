@@ -37,35 +37,6 @@ Love to solve complex things in simple ways.
 
 ### My Resume -> <a href="https://drive.google.com/file/d/1nzrQpK9PFYdxDaH4jlG1t5-tSAuBgyLy/view?usp=sharing"><img align="center" alt="Soham's Resume" width="35px" src="Assets/resume.png" /></a>
 
-### Languages, Tools & Technologies:
-
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-
-<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java.png"/>
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-
-<img align="left" alt="XML" width="26px" src="https://img.icons8.com/color/48/000000/xml.png"/>
-<img align="left" alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
 <hr>
 
 ### Technologies:
