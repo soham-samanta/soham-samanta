@@ -84,7 +84,7 @@ Love to solve complex things in simple ways.
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++sharp&logoColor=68217A)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
 ![Python](https://img.shields.io/badge/-python-000?&logo=Kotlin&logoColor=B62829)
 
 ### IDEs:
