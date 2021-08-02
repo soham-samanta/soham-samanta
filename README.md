@@ -79,7 +79,7 @@ Love to solve complex things in simple ways.
 
 ### Languages:
 
-![C](![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A))
+![C](https://img.shields.io/badge/-C-000?&logo=C%20sharp&logoColor=68217A)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
 ![Python](https://img.shields.io/badge/-python-000?&logo=Kotlin&logoColor=B62829)
