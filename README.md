@@ -13,7 +13,7 @@ Love to solve complex things in simple ways.
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
-  <img align="center" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
+  <img align="center" width="26px" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://github.com/soham-samanta">
   <img align="center" alt="Soham's Github" width="25px" src="Assets/github.png" />
@@ -22,7 +22,7 @@ Love to solve complex things in simple ways.
   <img align="center" alt="Soham's Instagram" width="25px" src="Assets/instagram.png" />
 </a>
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
-  <img align="center" alt="Soham's Hackerrank" width="25px" src="Assets/hackerrank.png" />
+  <img align="center" width="26px" alt="Soham's Hackerrank" width="25px" src="Assets/hackerrank.png" />
 </a>
 <a href="https://www.codechef.com/users/soham_cp_noob">
   <img align="center" alt="Soham's Codechef" width="25px" src="Assets/codechef.jpg" />
