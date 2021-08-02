@@ -71,9 +71,9 @@ Love to solve complex things in simple ways.
 ### Languages:
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C%20sharp&logoColor=68217A)
-![C++](https://img.shields.io/badge/-C++-000?&logo=html5&logoColor=E34F26)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cpp&logoColor=E34F26)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=B62829)
-![Python](https://img.shields.io/badge/-Java-000?&logo=python&logoColor=B62829)
+![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/AlvaroIsrael?tab=repositories&q=&type=&language=javascript)
