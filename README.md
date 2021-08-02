@@ -53,6 +53,8 @@ Love to solve complex things in simple ways.
 
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 
+<img align="left" alt="Java" width="26px" src="https://play-lh.googleusercontent.com/MK12c7vLGVgCgTUvuhlb9b69BwO0-UqsLkvzrHef46xT1ilYoMknDa-Nq0HZwFDX8ts>
+
 <img align="left" alt="React" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
