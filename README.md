@@ -59,7 +59,7 @@ Love to solve complex things in simple ways.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
 
-### IDEs:
+### Tools:
 
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=179EDC)
