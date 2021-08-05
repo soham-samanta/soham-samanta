@@ -39,17 +39,6 @@ Love to solve complex things in simple ways.
 
 <hr>
 
-### Languages:
-
-![C](https://img.shields.io/badge/-C-000?&logo=C%20sharp&logoColor=2C2255)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF9900)
-![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
-![XML](https://img.shields.io/badge/-XML-000?&logo=xml&logoColor=47A248)
 
 ### Technologies:
 
@@ -57,8 +46,19 @@ Love to solve complex things in simple ways.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=02303A)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=brightgreen)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
+
+### Languages:
+
+![C](https://img.shields.io/badge/-C-000?&logo=C%20sharp&logoColor=2C2255)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=red)
+![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
 
 ### Tools:
 
