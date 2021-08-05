@@ -64,7 +64,7 @@ Love to solve complex things in simple ways.
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio&logoColor=47A248)
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
-![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=179EDC)
+![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=yellowgreen)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![SublimeText](https://img.shields.io/badge/-SublimeText3-000?&logo=sublimetext&logoColor=1575F9)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=68217A)
@@ -72,8 +72,8 @@ Love to solve complex things in simple ways.
 ### Databases:
 
 ![SqlServer](https://img.shields.io/badge/-SqlServer-000?&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase&logoColor=336791)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=lightblue)
+![Firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase&logoColor=yellow)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite&logoColor=003B57)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 
