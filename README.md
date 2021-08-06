@@ -48,6 +48,7 @@ Love to solve complex things in simple ways.
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=brightgreen)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=FF9900)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autodesk&logoColor=FC444F)
 
 ### Languages:
 
