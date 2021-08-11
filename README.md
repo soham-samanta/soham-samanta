@@ -45,9 +45,9 @@ Love to solve complex things in simple ways.
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=1575F9)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=brightgreen)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=1575F9)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autodesk&logoColor=FC444F)
 
 ### Languages:
