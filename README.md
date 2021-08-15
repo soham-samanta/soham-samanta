@@ -1,15 +1,15 @@
 # Hey there👋 Welcome to my Profile!
 
 I'm [Soham Samanta](https://www.linkedin.com/in/soham-samanta-5732b41b5/)!
-I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. I love to code at night & study(/track) market during morning. Keenly interested in the STOCK MARKET.
+I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. Keenly interested in the STOCK MARKET.
  
 - I'm a 4⭐coder at [Codechef](https://www.codechef.com/users/soham_cp_noob). 5⭐at [HackerRank](https://www.hackerrank.com/sohamsamanta2?hr_r=1) {in C++ and Java}.
 - <b>Current Intern at [Knitter](https://www.linkedin.com/company/knitter/)</b> at the position of Android Developer Intern.
 - <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.sharexindustries.com/)</b> Formerly known as ShareX Academy.
 - <b>Highest achievement: [Google CodeJam 2021](https://drive.google.com/file/d/1AX-W4pBfTZm7JXK3FBMJd9vY1Pi86kUP/view)</b> Global Rank: 3997 (in Round 1B) among 38k participants.
 
-A CSE student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
-Love to solve complex things in simple ways.
+<!-- A CSE student at [KIIT University](https://kiit.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
+Love to solve complex things in simple ways. -->
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
