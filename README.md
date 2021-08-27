@@ -18,6 +18,9 @@ Love to solve complex things in simple ways. -->
 <a href="https://github.com/soham-samanta">
   <img align="center" alt="Soham's Github" width="25px" src="Assets/github.png" />
 </a>
+<a href="https://auth.geeksforgeeks.org/user/sohamsamanta2/">
+  <img align="center" alt="Soham's gfg" width="25px" src="Assets/gfg.png" />
+</a>
 <a href="https://www.instagram.com/sohamsamanta2/">
   <img align="center" alt="Soham's Instagram" width="25px" src="Assets/instagram.png" />
 </a>
