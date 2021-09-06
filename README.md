@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Soham!](https://www.linkedin.com/in/soham-samanta-5732b41b5/)Welcome to my profile
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Soham!](https://www.linkedin.com/in/soham-samanta-5732b41b5/) Welcome to my profile
 
 ### About Me 🚀
 I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. Keenly interested in the STOCK MARKET.
