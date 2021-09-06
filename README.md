@@ -1,4 +1,4 @@
-# Hey there👋 Welcome to my Profile!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soham!](https://kunal-kushwaha.github.io) 
 
 I'm [Soham Samanta](https://www.linkedin.com/in/soham-samanta-5732b41b5/)!
 I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. Keenly interested in the STOCK MARKET.
