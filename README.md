@@ -1,6 +1,6 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soham!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Soham!](https://kunal-kushwaha.github.io)Welcome to my profile
 
-I'm [Soham Samanta](https://www.linkedin.com/in/soham-samanta-5732b41b5/)!
+### About Me 🚀
 I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. Keenly interested in the STOCK MARKET.
  
 - I'm a 4⭐coder at [Codechef](https://www.codechef.com/users/soham_cp_noob). 5⭐at [HackerRank](https://www.hackerrank.com/sohamsamanta2?hr_r=1) {in C++ and Java}.
