@@ -15,8 +15,8 @@ Love to solve complex things in simple ways. -->
 <a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
   <img align="center" width="26px" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
-<a href="https://github.com/soham-samanta">
-  <img align="center" alt="Soham's Github" width="25px" src="Assets/github.png" />
+<a href="https://leetcode.com/sohamleet/">
+  <img align="center" alt="Soham's LeetCode" width="25px" src="Assets/github.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/sohamsamanta2/">
   <img align="center" alt="Soham's gfg" width="25px" src="Assets/gfg.png" />
