@@ -16,7 +16,7 @@ Love to solve complex things in simple ways. -->
   <img align="center" width="26px" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://leetcode.com/sohamleet/">
-  <img align="center" alt="Soham's LeetCode" width="25px" src="Assets/github.png" />
+  <img align="center" alt="Soham's LeetCode" width="25px" src="Assets/LeetCode.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/sohamsamanta2/">
   <img align="center" alt="Soham's gfg" width="25px" src="Assets/gfg.png" />
@@ -95,9 +95,9 @@ Love to solve complex things in simple ways. -->
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soham-samanta&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-<hr>
+<!-- <hr>
 
-<h2>Starring my repos will be appreciated as your ❤️ for me. </h2>
+<h2>Starring my repos will be appreciated as your ❤️ for me. </h2> -->
 
 
 ---
