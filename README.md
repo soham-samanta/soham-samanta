@@ -13,7 +13,7 @@ I am a Computer Science undergrad with strong technical and interpersonal skills
 Love to solve complex things in simple ways. -->
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/soham-samanta-5732b41b5/">
+<a href="https://www.linkedin.com/in/soham-samanta2000/">
   <img align="center" width="26px" alt="Soham's LinkedIN" width="25px" src="Assets/linkedin.png" />
 </a>
 <a href="https://leetcode.com/sohamleet/">
