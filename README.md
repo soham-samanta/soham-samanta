@@ -45,7 +45,7 @@ Love to solve complex things in simple ways. -->
 ### Technologies:
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=violet)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=orange)
 ![BootStrap5](https://img.shields.io/badge/-BootStrap5-000?&logo=bootstrap&logoColor=violet)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
@@ -56,6 +56,7 @@ Love to solve complex things in simple ways. -->
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=red)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
+![JSON](https://img.shields.io/badge/-JSON-000?&logo=json&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
@@ -66,12 +67,12 @@ Love to solve complex things in simple ways. -->
 ### Tools:
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=blue)
-![SublimeText](https://img.shields.io/badge/-SublimeText3-000?&logo=sublimetext&logoColor=1575F9)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio&logoColor=47A248)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=blue)
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=yellowgreen)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
+![SublimeText](https://img.shields.io/badge/-SublimeText3-000?&logo=sublimetext&logoColor=1575F9)
 
 
 ### Databases:
