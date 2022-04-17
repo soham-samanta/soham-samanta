@@ -44,33 +44,35 @@ Love to solve complex things in simple ways. -->
 
 ### Technologies:
 
-![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=violet)
+![BootStrap5](https://img.shields.io/badge/-BootStrap5-000?&logo=bootstrap&logoColor=violet)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure&logoColor=1575F9)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=brightgreen)
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-000?&logo=autodesk&logoColor=FC444F)
 
 ### Languages:
 
-![C](https://img.shields.io/badge/-C-000?&logo=C%20sharp&logoColor=2C2255)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=red)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c&logoColor=68217A)
 ![Python](https://img.shields.io/badge/-python-000?&logo=python&logoColor=B62829)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=B62829)
 
 ### Tools:
 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=blue)
 ![SublimeText](https://img.shields.io/badge/-SublimeText3-000?&logo=sublimetext&logoColor=1575F9)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio&logoColor=47A248)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes&logoColor=blue)
 ![IntellijIDEA](https://img.shields.io/badge/-Intellij%20IDEA-000?&logo=Webstorm&logoColor=FC444F)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm&logoColor=yellowgreen)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipseide&logoColor=68217A)
+
 
 ### Databases:
 
