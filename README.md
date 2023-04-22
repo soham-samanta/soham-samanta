@@ -5,7 +5,6 @@ I am a Computer Science undergrad with strong technical and interpersonal skills
  
 - Upcoming SWE intern at [Microsoft](https://www.microsoft.com/en-in)
 - SDE intern at [NorthCode Technology](https://www.northcodetech.com/)
-<!-- - I'm a 4⭐coder at [Codechef](https://www.codechef.com/users/soham_cp_noob).  -->
 - <b>SME at [Chegg Inc.](https://www.linkedin.com/in/soham-samanta2000/)</b> at the position of Subject Matter Expert (CS).
 - <b>Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/1x-yAttCPPa_ltuvtsW4Mv83GZb7Gg52c/view?usp=sharing)</b> 
 - <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.sharexindustries.com/)</b> Formerly known as ShareX Academy.
