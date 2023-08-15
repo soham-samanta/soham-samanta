@@ -3,8 +3,8 @@
 ### About Me 🚀
 I am a Computer Science undergrad with strong technical and interpersonal skills. I have a strong work ethic and try to work to perfection. I like having tasks that require tactful handling. I am always looking for improvement and hence appreciate constructive criticism. Keenly interested in the STOCK MARKET.
  
-- Software Engineering intern at [Microsoft](https://www.microsoft.com/en-in)
-- SDE intern at [NorthCode Technology](https://www.northcodetech.com/)
+- Former Software Engineering intern at [Microsoft](https://www.microsoft.com/en-in)
+- Former SDE intern at [NorthCode Technology](https://www.northcodetech.com/)
 - <b>SME at [Chegg Inc.](https://www.linkedin.com/in/soham-samanta2000/)</b> at the position of Subject Matter Expert (CS).
 - <b>Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/1x-yAttCPPa_ltuvtsW4Mv83GZb7Gg52c/view?usp=sharing)</b> 
 - <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.sharexindustries.com/)</b> Formerly known as ShareX Academy.
