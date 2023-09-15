@@ -30,9 +30,6 @@ Love to solve complex things in simple ways. -->
 <a href="https://www.hackerrank.com/sohamsamanta2?hr_r=1">
   <img align="center" width="26px" alt="Soham's Hackerrank" width="25px" src="Assets/hackerrank.png" />
 </a>
-<a href="https://www.codechef.com/users/soham_cp_noob">
-  <img align="center" alt="Soham's Codechef" width="25px" src="Assets/codechef.jpg" />
-</a>
 <a href="mailto:sohamsamanta2@gmail.com?subject=Hey%20Soham,%20From%20Github">
   <img align="center" alt="Soham's Gmail" width="25px" src="Assets/gmail.png" />
 </a>
