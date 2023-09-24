@@ -1,4 +1,4 @@
-### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px" width="25px"> 
+### Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px" width="25px">.
 ## I'm  [Soham!](https://www.linkedin.com/in/soham-samanta-5732b41b5/) Welcome to my profile
 
 ### About Me 🚀
