@@ -7,7 +7,7 @@ I am a Computer Science undergrad with strong technical and interpersonal skills
 - Former SDE intern at [NorthCode Technology](https://www.northcodetech.com/)
 - <b>SME at [Chegg Inc.](https://www.linkedin.com/in/soham-samanta2000/)</b> at the position of Subject Matter Expert (CS).
 - <b>Virtual Software Engineer Experience at [JPMorgan Chase & Co](https://drive.google.com/file/d/1x-yAttCPPa_ltuvtsW4Mv83GZb7Gg52c/view?usp=sharing)</b> 
-- <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.]([https://www.sharexindustries.com/](https://www.zaubacorp.com/director/Soham-Samanta/09219485)</b> Formerly known as ShareX Academy.
+- <b>Ex-Director at [Qualbuy Multicorp Pvt.Ltd.](https://www.zaubacorp.com/director/Soham-Samanta/09219485)</b> Formerly known as ShareX Academy.
 
 
 <!-- A CSE student at [KIIT University](https://kiit.ac.in/). 
